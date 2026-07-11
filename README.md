@@ -11,6 +11,7 @@ A collection of Java pattern printing programs created while learning nested loo
 
 ## ✅ Patterns Completed
 
+- Butterfly Pattern
 - Square Pattern
 - Hollow Square
 - Right Triangle
@@ -20,18 +21,9 @@ A collection of Java pattern printing programs created while learning nested loo
 - Diamond
 - Hollow Diamond
 - X Pattern
-- Butterfly Pattern
 
 ## 🖼️ Butterfly Pattern Output
 
 <p align="center">
-  <img src="images/butterfly-output.jpg" alt="Butterfly Pattern Output" width="450">
+  <img src="images/butterfly_output.jpg" alt="Butterfly Pattern Output" width="450">
 </p>
-
-
-## 🚀 About
-
-These programs are written from scratch for practice while learning Java. The goal of this repository is to improve problem-solving skills using loops and conditional statements.
-
----
-⭐ If you find this repository helpful, feel free to star it.
