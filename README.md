@@ -12,18 +12,31 @@ A collection of Java pattern printing programs created while learning nested loo
 ## ✅ Patterns Completed
 
 - Butterfly Pattern
-- Square Pattern
-- Hollow Square
-- Right Triangle
-- Inverted Right Triangle
-- Pyramid
-- Inverted Pyramid
-- Diamond
-- Hollow Diamond
-- X Pattern
+- Solid Rhombus
+- Hollow Rectangle
+- Floyd Triangle
 
-## 🖼️ Butterfly Pattern Output
+## Butterfly Pattern Output
 
 <p align="center">
   <img src="butterfly_output.jpg" alt="Butterfly Pattern Output" width="200">
 </p>
+
+## Solid Rhombus Pattern Output
+
+<p align="center">
+  <img src="solid_rh.jpg" alt="Butterfly Pattern Output" width="200">
+</p>
+
+## Hollow Rectangle Pattern Output
+
+<p align="center">
+  <img src="hollowrect.jpg" alt="Butterfly Pattern Output" width="200">
+</p>
+
+## Floyd Triangle Pattern Output
+
+<p align="center">
+  <img src="fyt.jpg" alt="Butterfly Pattern Output" width="200">
+</p>
+
