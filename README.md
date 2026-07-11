@@ -25,5 +25,5 @@ A collection of Java pattern printing programs created while learning nested loo
 ## 🖼️ Butterfly Pattern Output
 
 <p align="center">
-  <img src="butterfly_output.jpg" alt="Butterfly Pattern Output" width="450">
+  <img src="butterfly_output.jpg" alt="Butterfly Pattern Output" width="200">
 </p>
